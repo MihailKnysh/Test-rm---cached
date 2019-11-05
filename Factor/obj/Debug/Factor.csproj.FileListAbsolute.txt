@@ -1,0 +1,7 @@
+D:\Programming\C#\Exercises\Exercises from the book Shildt\Factor\Factor\bin\Debug\Factor.exe.config
+D:\Programming\C#\Exercises\Exercises from the book Shildt\Factor\Factor\bin\Debug\Factor.exe
+D:\Programming\C#\Exercises\Exercises from the book Shildt\Factor\Factor\bin\Debug\Factor.pdb
+D:\Programming\C#\Exercises\Exercises from the book Shildt\Factor\Factor\obj\Debug\Factor.csprojAssemblyReference.cache
+D:\Programming\C#\Exercises\Exercises from the book Shildt\Factor\Factor\obj\Debug\Factor.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Exercises\Exercises from the book Shildt\Factor\Factor\obj\Debug\Factor.exe
+D:\Programming\C#\Exercises\Exercises from the book Shildt\Factor\Factor\obj\Debug\Factor.pdb
